@@ -1,2 +1,3 @@
 # landing_page
-creating a lanfing page
+ create a landing page inspired by cat meme.
+ using the flexbox methods to create
